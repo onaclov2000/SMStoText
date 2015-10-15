@@ -1,8 +1,6 @@
 #!/usr/bin/env python2.7
 import re
-import csv
 import sys
-import operator
 import argparse as ap
 
 
